@@ -1,4 +1,3 @@
-# CSCI200-Final
 Title: Brodie Kimbell-jack, Section B, Maze generator
 
 Problem Proposal: My program will prompt the user with a ui where they can create a maze. They will be able to change the size of 
